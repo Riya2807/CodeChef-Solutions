@@ -1,4 +1,3 @@
-#Vaccine dose
 try:
     N=int(input())
     for i in range(N):
